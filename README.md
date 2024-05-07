@@ -1,3 +1,5 @@
+
+![Page 1](https://github.com/vansheta/Customer-Churn-Power-BI-Dashboard/blob/main/Customer%20Churn_page-0001.jpg)
 # Bank Customer Churn Analysis with Power BI
 
 ## Overview
